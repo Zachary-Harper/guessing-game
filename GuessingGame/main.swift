@@ -53,7 +53,7 @@ repeat {
         print("Please enter your next guess.")
         userGuess = Int(readLine()!)
    
-    }; playingGame = true
+    }; 
     
     
     if userGuess == randomNumber {
